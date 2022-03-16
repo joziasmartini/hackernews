@@ -15,4 +15,7 @@ Top posts from Hacker News API.
 
 ### Running
 
-Open the `index.html` with [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+- Install dependencies with `npm install`
+- Serve for development with `npm run start`
+- Compile for production with `npm run build`
+- Lint and fixes with `npm run test`

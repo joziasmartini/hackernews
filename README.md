@@ -10,7 +10,7 @@ Top posts from Hacker News API.
 
 ### Preview
 
-![image](./public/preview.png)
+<img src="./public/preview.png" width="500"/>
 
 ### Running
 

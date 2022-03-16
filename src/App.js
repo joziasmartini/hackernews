@@ -60,7 +60,8 @@ class App extends Component {
                   <p className="post-author">{post.by}</p>
                   <p className="post-points">{", " + post.score + " points"}</p>
                   <p className="post-comments">
-                    {", " + post.descendants + " comments"}
+                    {post.descendants && ", " + post.descendants + " comments"}
+                    {!post.descendants && ", 0 comments"}
                   </p>
                 </div>
               </div>

@@ -1,0 +1,25 @@
+.nav {
+  display: flex;
+  margin: 0 0 2rem;
+}
+
+.nav-arrow {
+  color: #e85f18;
+  font-weight: bolder;
+  font-size: 18px;
+}
+
+.nav-option {
+  display: block;
+  padding: 8px 24px;
+  background-color: #ddd;
+  border-radius: 4px;
+  margin-right: 1rem;
+  text-decoration: none;
+  color: inherit;
+  transition: 0.2s;
+}
+
+.nav-option:hover {
+  color: #e85f18;
+}

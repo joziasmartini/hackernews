@@ -13,6 +13,10 @@ Top posts from Hacker News API.
 
 <img src="./public/preview.png" width="500"/>
 
+### Deploy
+
+You can see a live version [deployed on Vercel](https://hackernews-joziasmartini.vercel.app/).
+
 ### Running
 
 - Install dependencies with `npm install`

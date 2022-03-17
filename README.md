@@ -22,4 +22,4 @@ You can see a live version [deployed on Vercel](https://hackernews-joziasmartini
 - Install dependencies with `npm install`
 - Serve for development with `npm run start`
 - Compile for production with `npm run build`
-- Lint and fixes with `npm run test`
+- Test application with `npm run test`

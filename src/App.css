@@ -7,28 +7,3 @@
 .App {
   padding: 2rem;
 }
-
-.post-item {
-  display: flex;
-  flex-direction: column;
-  margin: 0 0 1rem;
-}
-
-.post-info {
-  display: flex;
-  flex-direction: row;
-  color: #555;
-}
-
-.post-title {
-  display: inline;
-  color: #e85f18;
-  font-size: 16px;
-  cursor: pointer;
-}
-
-.post-author {
-  display: inline;
-  color: #555;
-  cursor: pointer;
-}

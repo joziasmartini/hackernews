@@ -3,13 +3,13 @@
   margin: 0 0 2rem;
 }
 
-.nav-arrow {
+.arrow {
   color: #e85f18;
   font-weight: bolder;
   font-size: 18px;
 }
 
-.nav-option {
+.option {
   display: block;
   padding: 8px 24px;
   background-color: #ddd;
@@ -20,6 +20,7 @@
   transition: 0.2s;
 }
 
-.nav-option:hover {
+.option:hover {
   color: #e85f18;
+  cursor: pointer;
 }

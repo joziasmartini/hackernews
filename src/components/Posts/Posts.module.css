@@ -1,0 +1,24 @@
+.post {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 1rem;
+}
+
+.title {
+  display: inline;
+  color: #e85f18;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.info {
+  display: flex;
+  flex-direction: row;
+  color: #555;
+}
+
+.author {
+  display: inline;
+  color: #555;
+  cursor: pointer;
+}

@@ -19,8 +19,8 @@ class App extends Component {
       .then((res) => res.json())
       .then((res) => res.slice(0, 20))
       .then((res) => {
-        res.forEach((id, index) => {
-          this.fetchItem(id, index, apiBase);
+        res.forEach((id) => {
+          this.fetchItem(id, apiBase);
         });
       })
       .catch((e) => {
@@ -28,7 +28,7 @@ class App extends Component {
       });
   }
 
-  async fetchItem(id, index, apiBase) {
+  async fetchItem(id, apiBase) {
     var item = apiBase + "item/" + id + ".json";
 
     await fetch(item)

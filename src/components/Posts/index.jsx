@@ -5,7 +5,7 @@ const Posts = ({ posts }) => {
     <main>
       {posts.map((post) => {
         return (
-          <div className="post-item">
+          <div className="post-item" key={post.id}>
             <h1 className="post-title">{post.title}</h1>
             <div className="post-info">
               <p className="post-author">{post.by}</p>

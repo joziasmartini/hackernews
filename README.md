@@ -1,6 +1,6 @@
 # hackernews
 
-Top posts from Hacker News API.
+An application that consumes the Hacker News API.
 
 ### Technologies
 

@@ -49,8 +49,8 @@ function App() {
     <div className="App">
       {console.log(posts)}
       <Header
-        title="HackerNews API"
-        subtitle="Listing the top posts from the Hacker News"
+        title="Hacker News API"
+        subtitle="A list with the top posts from the Hacker News"
       />
       <Nav options={["Posts", "About"]} />
       <Posts posts={posts} />

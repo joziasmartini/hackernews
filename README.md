@@ -12,6 +12,7 @@
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS Modules](https://github.com/css-modules/css-modules)
 - [React.js](https://reactjs.org/)
+- [Jest](https://jestjs.io/)
 - [Fetch API](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API)
 - [Vercel](https://vercel.com/)
 

@@ -1,5 +1,3 @@
-<br/>
-
 <div align="center">
   <h1>hackernews</h1>
   <p>An application that consumes the Hacker News API.</p>

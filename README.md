@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>hackernews</h1>
+  <h1>Hacker News</h1>
   <p>An application that consumes the Hacker News API.</p>
 </div>
 
@@ -7,8 +7,8 @@
 
 ### Technologies
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS Modules](https://github.com/css-modules/css-modules)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [React.js](https://reactjs.org/)
 - [Jest](https://jestjs.io/)
 - [Fetch API](https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API)
